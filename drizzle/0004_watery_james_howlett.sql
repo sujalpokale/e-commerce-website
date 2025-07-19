@@ -1,0 +1,1 @@
+ALTER TABLE "warehouses" RENAME TO "warehouse";
